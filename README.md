@@ -9,4 +9,4 @@
 * 传输协议：ws
 * 伪装类型：none
 * 路径：/UUID-vless // 默认vless使用/UUID-vless，vmess使用/UUID-vmess，Trojan使用/UUID-Trojan
-* 底层传输安全：tls1
+* 底层传输安全：tls
